@@ -1,0 +1,11 @@
+C:\Users\jarog\source\repos\Dragon Designer\Dragon Designer\bin\Debug\Dragon Designer.exe.config
+C:\Users\jarog\source\repos\Dragon Designer\Dragon Designer\bin\Debug\Dragon Designer.exe
+C:\Users\jarog\source\repos\Dragon Designer\Dragon Designer\bin\Debug\Dragon Designer.pdb
+C:\Users\jarog\source\repos\Dragon Designer\Dragon Designer\obj\Debug\Dragon Designer.csprojAssemblyReference.cache
+C:\Users\jarog\source\repos\Dragon Designer\Dragon Designer\obj\Debug\Dragon_Designer.Form1.resources
+C:\Users\jarog\source\repos\Dragon Designer\Dragon Designer\obj\Debug\Dragon_Designer.Properties.Resources.resources
+C:\Users\jarog\source\repos\Dragon Designer\Dragon Designer\obj\Debug\Dragon Designer.csproj.GenerateResource.cache
+C:\Users\jarog\source\repos\Dragon Designer\Dragon Designer\obj\Debug\Dragon Designer.csproj.CoreCompileInputs.cache
+C:\Users\jarog\source\repos\Dragon Designer\Dragon Designer\obj\Debug\Dragon Designer.exe
+C:\Users\jarog\source\repos\Dragon Designer\Dragon Designer\obj\Debug\Dragon Designer.pdb
+C:\Users\jarog\source\repos\Dragon Designer\Dragon Designer\obj\Debug\Dragon_Designer.AboutBox1.resources

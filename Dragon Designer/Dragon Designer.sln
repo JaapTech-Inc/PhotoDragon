@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dragon Designer", "Dragon Designer\Dragon Designer.csproj", "{C5C6D719-5D28-437F-9BDD-FB4064151D68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5C6D719-5D28-437F-9BDD-FB4064151D68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5C6D719-5D28-437F-9BDD-FB4064151D68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5C6D719-5D28-437F-9BDD-FB4064151D68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5C6D719-5D28-437F-9BDD-FB4064151D68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FD1EA64-A506-43B0-8758-523E04FFE7D3}
+	EndGlobalSection
+EndGlobal
