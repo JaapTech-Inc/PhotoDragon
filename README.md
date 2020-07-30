@@ -6,4 +6,4 @@ PhotoDragon works thanks to the .Controls functions, so you can directly add a w
 It creates instantaly a winforms object with .Controls.Add([your object])
 
 # About
-PhotoDragon is created by JaapTeech, with visual .NET c#, and uses the Windows Forms Framework.
+PhotoDragon is created by JaapTech, with visual .NET c#, and uses the Windows Forms Framework.
