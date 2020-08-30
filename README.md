@@ -1,3 +1,6 @@
+**THIS PROJECT HAS BEEN RENAMED TO VIVALDI**
+. Link to the repository: 
+
 # PhotoDragon
 A .NET open-source photo editor
 
